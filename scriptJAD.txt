@@ -1,0 +1,104 @@
+JAD Session Script for LearnLance Platform:
+
+Session Leader: Good morning, everyone! Welcome to our LearnLance JAD session. My name is Lara. Today, we have a critical task ahead—to create a revolutionary online learning and freelancing platform named Learnlance. Let's dive into our detailed discussion. I'll start by introducing myself as the session leader. Now, let's go around the room.
+
+Sponsor: Good morning. My name is UAC. As the sponsor, my role involves aligning our features with business objectives.
+
+Analyst: Hello, everyone. I'm Rafi Ujair, and I'll be taking on the role of the analyst. My responsibility is to gather and analyze the requirements. Let's get started.
+
+Scribe: Good morning everyone! My name is Aaiz. I'm the scribe writer, responsible for documenting our discussions. Let's ensure we capture the essence of what's being discussed through out the JAD sessions.
+
+Subject Matter Expert (SME): Morning, everyone. I'm Anna, and my role is to guide us in ensuring that the content and features align with the educational and employment needs and expertise of our target audience such as teachers and students.
+
+Teacher: Hey everyone. My name is camilla. I'm representing the user class of teacher for LearnLance.
+
+Coder: Hello, team. My name is Moajam. As the Coder, I'll be diving into the technical aspects of development. Let's discuss how we can implement each feature seamlessly to create a robust and user-friendly LearnLance platform.
+
+Tester: Hello, team. I am Alia. As the Tester, I'll be looking after the testing aspects of the LearnLance.
+
+Session Leader: Fantastic, everyone. Let's kick off with the teacher profile. camilla, could you share your thoughts on what information and features you'd find valuable to include in your profile?
+
+Camilla: Thank you. I would like to include personal information such as my name, profile picture, bio information, connections, followers number, rating, and location. Additionally, I'd like to highlight certifications, experiences and projects, educational background, feedback from peer teachers and students, languages spoken, as well as honors and awards. But I'm a bit confused about which fields to include in the experience section, especially considering its significance for the teacher profile.
+
+Session Leader: Noted. Anna, could you please specify the specific details that should be included in the experience section?
+
+Anna: Certainly. When adding experience in the teacher profile, make sure to include the job title, company name, start date, end date, and location.
+
+Analyst: Alright. UAC, what about mandatory and optional details?
+
+UAC: Every piece of information is mandatory, except for feedback. Feedback will be included in a teacher's profile only when it is submitted by other teachers or students.
+
+Analyst: Okay. So, are teachers also capable of editing, deleting, or adding this information?
+
+Camilla: Yes, of course. I think it should be.
+
+Sponsor: No Camilla, please note that feedback is read-only to ensure that students and teachers have an accurate representation of reality.
+
+Analyst: Alright, let's consider UAC's opinion, as he is more familiar with the business objectives of LearnLance. Now, Mr. UAC, could you please provide guidance on the extent to which you want the system to handle errors? I'm considering the system's robustness.
+
+Sponsor: Well, I believe Alia would be better suited to address that.
+
+Alia: Thank you. Input validation is crucial for every field in each section. I recommend Moajam incorporate try-catch blocks in coding to handle unexpected network, memory, and hardware errors. Additionally, errors should be displayed in red for better visibility.
+
+Session Leader: Good input. Mr. UAC, could you please specify the information you would like to display prominently on the profile?
+
+Sponsor: Certainly. The profile will feature three records for each section. However, the comprehensive list of records will be accessible by clicking the "View All" button.
+
+Analyst: Alright.
+
+Session Leader: Moajam, could you share your thoughts on whether the current UI requirements align with market trends?
+
+Moajam: In my opinion, displaying the three most recent records is a good idea, and it's also relatively easy to implement.
+
+Sponsor: Yes, that sounds like a good approach.
+
+Camilla: Great. Let's ensure the UI is user-friendly and the system is easy to use.
+
+Scribe: Thank you, everyone. Kindly wait for two minutes so that I can document all the discussions. Continue...
+
+Session Leader: Alright, Mr. UAC, what is your preference regarding frontend requirements? Would you prefer to review prototypes first, or do you plan to articulate your own set of requirements?
+
+Sponsor: I would like to see the prototypes.
+
+Analyst: Certainly, here they are. I prepared them in advance as instructed by Mr. Lara before the meeting.
+
+Sponsor: Great. The design looks good, but I would like to have some changes incorporated into it.
+
+Analyst: Of course, I'm open to making any necessary adjustments. Please let me know the specific changes you have in mind.
+
+Sponsor: Firstly, I would like to have a moderate amount of content on the profile. For example, in the experiences section, I prefer having the title and company visible. When a user clicks on "View Details," the complete information for that particular record should be displayed.
+
+Session Leader: Great input. Camilla, do you find it feasible to work with such a UI-based system?
+
+Camilla: Yes, I agree. Having less content on the profile will likely engage viewers more, allowing them to focus on the details that specifically interest them.
+
+Analyst: Alright, Mr. UAC, please proceed with any additional feedback or requirements you may have.
+
+Sponsor: Secondly, I'd like all the buttons to be rounded, taking up 90% of the screen width, and centered.
+
+Analyst: Certainly. Any more suggestions?
+
+Sponsor: Additionally, I would prefer the font for the headings to be "Sohne" and for the descriptions to be "Calibri".
+
+Scribe: Okay, I have compiled comprehensive notes of all our discussions. I would now like to request Mr. Lara to email them to all the session participants once the meeting concludes.
+
+Session Leader: Does anyone have any concerns or questions regarding today's discussion?
+
+Camilla: No, everything has been resolved.
+
+Sponsor: Yes, we are all satisfied.
+
+Session Leader: Great. To summarize today's session, we engaged in collaborative discussions on teacher profiles, UI design, and frontend requirements. The comprehensive notes will be shared with all participants for confirmation, ensuring alignment as we progress in building this innovative online learning and freelancing platform.
+
+****** Everyone says yes, alright.
+
+Session Leader: Let's take a lunch break. We will resume with the student profile discussion shortly after lunch. Meanwhile, Ms. Kaleem Ujairni will be joining us as a student surrogate. Thanky you.
+
+Session Leader (Lara): -> Yusra ---- 10
+SME (Anna): -> Insha ---- 2
+Coder (Moajam): -> Ismail ---- 2
+Tester (Alia): -> Insha ---- 2
+Teacher (Camilla): -> Yusra ---- 6
+Scribe (Aaiz): -> Ismail ---- 3
+Sponsor (UAC): -> Insha ---- 11
+Analyst (Rafi Ujair): -> Ismail ---- 9
